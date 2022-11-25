@@ -4,6 +4,8 @@ Certificados
 
 2022
 
+1º Bootcamp de Dados - Mulheres em Inteligência Artificial (MIA)
+
 "Como ingressar na Carreira de Dados" - Santander Universidades/Unicamp 
 
 "Fundamentos de Codificação" - Grasshoper 
